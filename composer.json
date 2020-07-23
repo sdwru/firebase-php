@@ -23,7 +23,7 @@
         "ext-openssl": "*",
         "giggsey/libphonenumber-for-php": "^8.9",
         "google/auth": "^1.8",
-        "google/cloud-core": "^1.36",
+        "google/cloud-core": "^1.38",
         "google/cloud-storage": "^1.14",
         "guzzlehttp/guzzle": "^6.2.1|^7.0@beta",
         "kreait/clock": "^1.0.1",
